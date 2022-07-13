@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephonT/team-profile-generator.git"
+  },
+  "author": "Stephon T.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephonT/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/StephonT/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
