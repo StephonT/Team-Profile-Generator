@@ -37,4 +37,3 @@ test('gets employee role', () => {
     expect(employee.getRole()).toEqual('Employee');
 })
 
-//10.1.7
