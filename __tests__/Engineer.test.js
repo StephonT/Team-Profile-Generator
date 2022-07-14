@@ -1,6 +1,6 @@
 const Engineer = require('../lib/Engineer.js');
 
-//gets Engineer's Objest
+//gets Engineer's Object
 test('creates Engineer object', () => {
     const engineer = new Engineer('Stephon', 33, 'stephon@work.com', 'StephonT');
 
