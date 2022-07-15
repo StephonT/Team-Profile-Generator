@@ -19,7 +19,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage
 
-Use inquirer from your command line to answer questions about your project. View walk through video here - <a href= "https://drive.google.com/file/d/16i1OLHCM0pBw1tifAzs0iINfUddUXmwC/view">Screencastify</a>
+Use inquirer from your command line to answer questions about your project. View walk through video here - <a href="https://watch.screencastify.com/v/tJJUSaUfXtKB38wXlzNM">Screencastify</a>
 
 ## License
 
